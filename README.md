@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Samia Jahan Mojumder]  
+# 👋 Hi, I'm Samia Jahan Mojumder
 
 🎓 **Software Engineering (B.Sc.) | CGPA 3.7 | AIUB**  
 💻 Passionate about **Full-Stack Development** & exploring **Backend (NestJS, Node.js)**  
