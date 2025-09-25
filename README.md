@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm [Samia Jahan Mojumder]  
 
-<!--
-**Samia161199/Samia161199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering (B.Sc.) | CGPA 3.7 | AIUB**  
+💻 Passionate about **Full-Stack Development** & exploring **Backend (NestJS, Node.js)**  
+📖 Interested in **Web Applications, and Scalable Software Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Publication  
+- **[Real-Time Confidence Detection using Face and Hand Gestures](https://www.researchgate.net/publication/392597375_Real-Time_Confidence_Detection_through_Facial_Expressions_and_Hand_Gestures)**
+
+---
+
+## 🚀 Skills & Technologies  
+- **Languages:** JavaScript, PHP, HTML, CSS  
+- **Frontend:** React, TailwindCSS, PostCSS  
+- **Backend:** NestJS, Node.js, REST API  
+- **Database:** PostgreSQL, MySQL (pgAdmin, phpMyAdmin)  
+- **Other:** MVC architecture, Git/GitHub, Figma  
+
+
+---
+
+## 🌱 Currently Learning  
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Advanced backend with NestJS  
+- Scalable database design  
+
+---
+
+## 📫 Connect with Me  
+- 📱 [WhatsApp](https://wa.me/8801775935142)
+ 
+- 📧 [Email](mailto:mojumdersamiajahan@gmail.com) 
+
+
