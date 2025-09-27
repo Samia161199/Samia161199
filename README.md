@@ -1,4 +1,4 @@
-# <img width="38" height="46" alt="image" src="https://github.com/user-attachments/assets/c25ae082-ba05-433f-bcdd-ffae4acfd7d7" /> Hi, I'm Samia Jahan Mojumder
+# <img width="28" height="36" alt="image" src="https://github.com/user-attachments/assets/c25ae082-ba05-433f-bcdd-ffae4acfd7d7" /> Hi, I'm Samia Jahan Mojumder
 
 🎓 **Software Engineering (B.Sc.) | CGPA 3.7 | AIUB**  
 💻 Passionate about **Full-Stack Development** & exploring **Backend (NestJS, Node.js)**  
