@@ -31,6 +31,6 @@
 ## 📫 Connect with Me  
 - 📱 [WhatsApp](https://wa.me/8801775935142)
  
-- 📧 [Email](mailto:mojumdersamiajahan@gmail.com) 
+-  📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=mojumdersamiajahan@gmail.com)
 
 
